@@ -2,14 +2,11 @@
 # Violent-hope
 
 <img src="https://user-images.githubusercontent.com/101565835/209437411-339662d2-07cb-4df3-b273-39d42997bc28.jpeg" style="width:150px" />
+This is a full-stack shopping application built using the MERN stack by a team of 5. The application loads products from a MongoDB database and displays them using **_React and Chakra UI_** ( front-end ), **_NodeJs, and ExpressJS_** ( back-end ).
 
-# E-commerce Website  <a href="https://violent-hope-ecomm.netlify.app/">Live View</a>
+Users can click on any product to get more information about it and add it to their shopping cart. One can then proceed to the payments page, hence completing the flow of the website.
 
-This is a full-stack shopping application built using MERN stack by a team of 5. The application loads products from a MongoDB database and displays them using **_React and Chakra UI_** ( front-end ), **_NodeJs and ExpressJS_** ( back-end ).
-
-Users can click on any product to get more information about it and add it to their shopping cart. One can then proceed to payments page, hence completing the flow of the website.
-
-User authentication and product fetching is done using <u>**_REST API_**</u>. The cart ( products and their quantity ) is also simultaneously updated in the backend.
+User authentication and product fetching are done using <u>**_REST API_**</u>. The cart ( products and their quantity ) is also simultaneously updated in the backend.
 
 **_Visit [here](https://violent-hope.netlify.app/)._**
 
